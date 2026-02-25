@@ -6,3 +6,4 @@ export const getImageUrl = (imageId: string): string => {
     }
     return `${IMGBB_BASE_URL}/${imageId}`;
 };
+//comentario
